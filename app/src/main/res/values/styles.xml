@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--&lt;!&ndash;白天&ndash;&gt;-->
+    <!--<style name="DayTheme" parent="@style/AppTheme">-->
+        <!--<item name="colorControlNormal">@color/gank_text1_color</item>-->
+        <!--<item name="android:windowBackground">@color/main_color</item>-->
+        <!--<item name="app_background">@color/backgroundColor</item>-->
+        <!--<item name="lineColor">@color/lineColor</item>-->
+        <!--<item name="item_bg">@drawable/item_selector</item>-->
+        <!--<item name="item_setting_bg">@drawable/item_setting_selector</item>-->
+        <!--<item name="setting_text_color">@color/gank_text2_color</item>-->
+        <!--<item name="setting_small_text_color">@color/gank_text3_color</item>-->
+        <!--<item name="app_toolbar_bg">@color/main_color</item>-->
+        <!--<item name="toolbar_line_color">@color/setting_toobar_line_color</item>-->
+        <!--<item name="text1_color">@color/gank_text1_color</item>-->
+        <!--<item name="setting_arrow_right">@drawable/gank_icon_arrow_right</item>-->
+        <!--<item name="navigation_menu_item_color">@color/navigation_menu_item_color</item>-->
+        <!--<item name="navigation_bg">@color/navigation_bg_color</item>-->
+        <!--<item name="head_lines_bg">@color/head_lines_bg_color</item>-->
+        <!--<item name="head_lines_text1_color">@color/head_lines_text1_color</item>-->
+        <!--<item name="head_lines_text2_color">@color/head_lines_text2_color</item>-->
+        <!--<item name="girl_pic_trans_item">@color/girl_pic_trans_item</item>-->
+        <!--<item name="girl_pic_trans_item_text_color">@color/girl_pic_trans_item_text_color</item>-->
+        <!--<item name="icon_like_color">@color/icon_like_color</item>-->
+        <!--<item name="girl_pic_trans_shade">@color/girl_pic_trans_shade</item>-->
+        <!--<item name="refresh_bg">@color/refresh_bg_color</item>-->
+        <!--<item name="refresh_text_color">@color/refresh_text_color</item>-->
+        <!--<item name="refresh_arrow_icon">@drawable/gank_icon_pull_arrow_white</item>-->
+        <!--<item name="refresh_success_icon">@drawable/gank_icon_pull_refresh_success_white</item>-->
+        <!--<item name="tablayout_bg">@color/tablayout_bg_color</item>-->
+        <!--<item name="tablayout_text_color">@color/tablayout_text_color</item>-->
+        <!--<item name="tablayout_indicator_color">@color/tablayout_indicator_color</item>-->
+        <!--<item name="main_text_color">@color/main_text_color</item>-->
+        <!--<item name="progressbar_color">@color/progressbar_color</item>-->
+        <!--<item name="toolbar_title_color">@color/toolbar_title_color</item>-->
+        <!--<item name="black_text1_color">@color/black_text1_color</item>-->
+        <!--<item name="black_text2_color">@color/black_text2_color</item>-->
+        <!--<item name="black_text3_color">@color/black_text3_color</item>-->
+        <!--<item name="app_icon_menu">@drawable/gank_icon_menu_white</item>-->
+        <!--<item name="webview_progress_bg_color">@color/webview_progress_bg_color</item>-->
+        <!--<item name="webview_progress_color">@color/webview_progress_color</item>-->
+        <!--<item name="app_icon_search">@drawable/gank_icon_search_white</item>-->
+        <!--<item name="arrow_down_white">@drawable/gank_icon_arrow_drop_down</item>-->
+        <!--<item name="collect_btn_border">@color/btn_collect_border_color</item>-->
+    <!--</style>-->
+</resources>
